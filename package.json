@@ -1,0 +1,16 @@
+{
+  "name": "imageuploader",
+  "version": "1.0.0",
+  "description": "Image Uploader using Multer",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Sanket Mundada",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  }
+}
